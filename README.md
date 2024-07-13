@@ -1,7 +1,7 @@
 ## About the dataset
 
 This dataset contains insightful information related to insurance claims, giving us an in-depth look into the demographic patterns of those receiving them. The dataset contains information on patient age, gender, BMI (Body Mass Index), blood pressure levels, diabetic status, number of children, smoking status and region. By analyzing these key factors across geographical areas and across different demographics such as age or gender we can gain a greater understanding of who is most likely to receive an insurance claim. This understanding gives us valuable insight that can be used to inform our decision making when considering potential customers for our services. On a broader scale it can inform public policy by allowing for more targeted support for those who are most in need and vulnerable. These kinds of insights are extremely valuable and this dataset provides us with the tools we need to uncover them!
-
+ 
 ## How to use the dataset
 
 This dataset provides a comprehensive examination of demographic and health data from insurance claims, which can be used to make predictions about a wide variety of health-related outcomes. It is designed to give users powerful insights into the relationship between different demographic factors such as age, gender, BMI, blood pressure etc., the presence of chronic diseases like diabetes, smoking status and region with insurance claim amounts.
